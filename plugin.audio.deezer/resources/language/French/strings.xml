@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <!-- Settings -->
+    <string id="1000">Identifiant</string>
+    <string id="1001">Mot de passe</string>
+
+    <!-- Menu labels -->
+    <string id="2000">Graphique</string>
+    <string id="2001">Chaines radios</string>
+    <string id="2002">Mes playlists</string>
+    <string id="2003">Mes albums</string>
+    <string id="2004">Mes artistes</string>
+    <string id="2005">Rechercher</string>
+    <string id="2006">Dernières écoutes</string>
+
+    <!-- Dialogs -->
+    <string id="2050">Authentification requise</string>
+    <string id="2051">Vous devez vous authentifier pour utiliser Deezer</string>
+    <string id="2052">Voulez-vous réessayer ou bien quitter Deezer?</string>
+    <string id="2053">Essayer à nouveau</string>
+    <string id="2054">Quitter</string>
+
+    <!-- Artist View Menu -->
+    <string id="3000">Top</string>
+    <string id="3001">Albums</string>
+    <string id="3002">Playlists</string>
+    <string id="3003">Radio</string>
+
+    <!-- Chart View Menu -->
+    <string id="3005">Titre</string>
+    <string id="3006">Albums</string>
+    <string id="3007">Artistes</string>
+    <string id="3008">Playlists</string>
+
+    <!-- Search View Menu -->
+    <string id="3010">Rechercher partout</string>
+    <string id="3011">Rechercher des artistes</string>
+    <string id="3012">Rechercher des albums</string>
+    <string id="3013">Rechercher des titres</string>
+</strings>
